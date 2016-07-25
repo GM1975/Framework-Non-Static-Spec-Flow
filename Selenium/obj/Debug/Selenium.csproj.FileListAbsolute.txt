@@ -1,0 +1,10 @@
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\bin\Debug\Selenium.dll
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\bin\Debug\Selenium.pdb
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\obj\Debug\Selenium.dll
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\obj\Debug\Selenium.pdb
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\bin\Debug\WebDriver.dll
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\bin\Debug\WebDriver.xml
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\bin\Debug\chromedriver.exe
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\bin\Debug\WebDriver.Support.dll
+C:\GIT GM\Framework Non Static Spec Flow\Selenium\bin\Debug\WebDriver.Support.xml

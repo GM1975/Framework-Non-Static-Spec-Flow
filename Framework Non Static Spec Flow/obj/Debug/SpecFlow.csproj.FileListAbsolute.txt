@@ -1,0 +1,17 @@
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\Framework Non Static Spec Flow.dll.config
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\Framework Non Static Spec Flow.dll
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\Framework Non Static Spec Flow.pdb
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\nunit.framework.dll
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\TechTalk.SpecFlow.dll
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\nunit.framework.xml
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\obj\Debug\SpecFlow.csprojResolveAssemblyReference.cache
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\obj\Debug\Framework Non Static Spec Flow.dll
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\obj\Debug\Framework Non Static Spec Flow.pdb
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\Selenium.dll
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\WebDriver.dll
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\Selenium.pdb
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\WebDriver.xml
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\chromedriver.exe
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\WebDriver.Support.dll
+C:\GIT GM\Framework Non Static Spec Flow\Framework Non Static Spec Flow\bin\Debug\WebDriver.Support.xml
